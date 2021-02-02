@@ -34,6 +34,8 @@ set_exception_handler('exception_handler');
 
 require VENDOR_PATH . '/autoload.php';
 
+
+
 use Luolongfei\Lib\Log;
 use Luolongfei\Lib\Mail;
 use Luolongfei\Lib\TelegramBot;
